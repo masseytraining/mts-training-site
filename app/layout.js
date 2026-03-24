@@ -2,7 +2,8 @@ import './globals.css';
 
 export const metadata = {
   title: 'MTS Training Services | Excellence in Training',
-  description: 'On-site RTITB-accredited forklift, health and safety, and compliance training delivered at customer premises.',
+  description: 'Professional on-site RTITB forklift training, health and safety, and compliance support delivered at customer premises across the UK.',
+  keywords: ['RTITB forklift training', 'on-site forklift training', 'forklift training UK', 'MTS Training Services', 'workplace training'],
 };
 
 export default function RootLayout({ children }) {
