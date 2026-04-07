@@ -9,7 +9,7 @@ img { max-width: 100%; height: auto; }
 .site-header { position: sticky; top: 0; z-index: 20; background: rgba(255,255,255,0.96); border-bottom: 1px solid #e2e8f0; }
 .header-inner { display: flex; align-items: center; justify-content: space-between; gap: 18px; padding: 16px 24px; }
 .brand-wrap { display: flex; align-items: center; gap: 14px; min-width: 0; }
-.brand-logo { height: 80px; width: auto; border-radius: 14px; border: 1px solid #e2e8f0; background: white; padding: 4px; }
+.brand-logo { height: 90px; width: auto; border-radius: 14px; border: 1px solid #e2e8f0; background: white; padding: 4px; }
 .brand-name { font-size: 30px; font-weight: 800; color: #0f1f5c; line-height: 1.05; }
 .brand-tag { color: #64748b; font-style: italic; font-size: 14px; }
 .nav-wrap { display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; }
