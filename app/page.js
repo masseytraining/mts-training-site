@@ -6,7 +6,7 @@ export default function Page() {
   const [activePage, setActivePage] = useState('home');
 
   const company = {
-    name: 'MTS Training Services',
+    name: 'Massey Training Services',
     email: 'colin@masseytraining.co.uk',
     phone: '07535855829',
     website: 'www.masseytraining.co.uk',
