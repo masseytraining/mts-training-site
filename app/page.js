@@ -129,10 +129,10 @@ export default function Page() {
           <section className="hero" style={{ background: `linear-gradient(135deg, ${company.brand.navy} 0%, ${company.brand.blue} 50%, ${company.brand.red} 100%)` }}>
             <div className="container hero-grid">
               <div>
-                <div className="eyebrow hero-eyebrow">MTS Training Services • RTITB Accredited</div>
+                <div className="eyebrow hero-eyebrow">Massey Training Services • RTITB Accredited</div>
                 <h1>{company.tagline}</h1>
                 <p className="hero-copy">
-                  MTS Training Services provides professional on-site RTITB forklift training across the UK. We specialise in novice, refresher, experienced, and conversion operator training delivered at customer premises.
+                  Massey Training Services provides professional on-site RTITB forklift training across the UK. We specialise in novice, refresher, experienced, and conversion operator training delivered at customer premises.
                 </p>
                 <div className="hero-actions">
                   <button onClick={() => setActivePage('contact')} className="primary-white">Request a Quote</button>
