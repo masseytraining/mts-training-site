@@ -81,7 +81,7 @@ img { max-width: 100%; height: auto; }
 .submit-btn { border: 0; color: white; border-radius: 16px; padding: 16px 20px; font-weight: 800; }
 .site-footer { background: white; border-top: 1px solid #e2e8f0; }
 .footer-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 24px; padding: 40px 24px; }
-.footer-logo { height: 74px; width: auto; border: 1px solid #e2e8f0; background: white; border-radius: 16px; padding: 4px; }
+.footer-logo { height: 100px; width: auto; border: 1px solid #e2e8f0; background: white; border-radius: 16px; padding: 4px; }
 .footer-tag { margin-top: 14px; color: #64748b; }
 .footer-head { text-transform: uppercase; letter-spacing: 0.16em; font-size: 12px; font-weight: 800; color: #334155; }
 .footer-links, .footer-contact { margin-top: 16px; display: grid; gap: 10px; }
