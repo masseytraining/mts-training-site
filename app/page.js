@@ -301,7 +301,7 @@ export default function Page() {
           <div className="container">
             <div className="section-head">
               <div className="eyebrow">Testimonials</div>
-              <h2>What customers say about MTS Training Services</h2>
+              <h2>What customers say about Massy Training Services</h2>
               <p>We aim to provide practical, professional, and dependable training that works for employers and their teams.</p>
             </div>
             <div className="card-grid three">
@@ -322,7 +322,7 @@ export default function Page() {
           <div className="container contact-grid">
             <div>
               <div className="eyebrow">Contact</div>
-              <h2>Talk to MTS Training Services</h2>
+              <h2>Talk to Massey Training Services</h2>
               <p className="contact-copy">Your real contact details are built in below so the site can act as a stronger lead-generation tool.</p>
               <div className="contact-list">
                 <div><strong>Phone:</strong> {company.phone}</div>
@@ -338,7 +338,7 @@ export default function Page() {
             <div className="card form-card">
               <div className="card-title">Send an enquiry</div>
               <form action={`https://formsubmit.co/${company.email}`} method="POST" className="form-grid">
-                <input type="hidden" name="_subject" value="New website enquiry - MTS Training Services" />
+                <input type="hidden" name="_subject" value="New website enquiry - Massey Training Services" />
                 <input type="hidden" name="_captcha" value="false" />
                 <input type="text" name="name" placeholder="Your name" required />
                 <input type="text" name="company" placeholder="Company" />
