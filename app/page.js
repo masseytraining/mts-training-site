@@ -190,7 +190,7 @@ export default function Page() {
               <div className="section-head">
                 <div className="eyebrow">Services</div>
                 <h2>Training solutions built around your operation</h2>
-                <p>From accredited operator courses to wider workplace compliance support, MTS Training Services delivers practical on-site training at customer premises only.</p>
+                <p>From accredited operator courses to wider workplace compliance support, Massey Training Services delivers practical on-site training at customer premises only.</p>
               </div>
               <div className="card-grid four">
                 {services.map((service) => (
@@ -215,16 +215,16 @@ export default function Page() {
         <section className="section">
           <div className="container about-grid">
             <div>
-              <div className="eyebrow">About MTS Training Services</div>
+              <div className="eyebrow">About Massey Training Services</div>
               <h2>Excellence in Training</h2>
               <p>
-                MTS Training Services is a professional training provider specialising in high-quality on-site instruction delivered at customer premises across the UK. We support businesses that need practical, well-structured training which promotes safer workplaces, stronger compliance, and more confident operators.
+                Massey Training Services is a professional training provider specialising in high-quality on-site instruction delivered at customer premises across the UK. We support businesses that need practical, well-structured training which promotes safer workplaces, stronger compliance, and more confident operators.
               </p>
               <p>
                 Our core service is RTITB-accredited forklift training for novice, experienced, refresher, and conversion candidates. We also provide health and safety and wider compliance support tailored to each customer’s working environment, operational needs, and scheduling requirements.
               </p>
               <p>
-                By delivering training on-site, MTS Training Services helps employers train staff in a familiar workplace setting, reduce disruption to operations, and maintain a professional standard of instruction throughout every course. Our approach is straightforward, reliable, and focused on giving customers confidence in both the quality of training and the competence of their operators.
+                By delivering training on-site, Massey Training Services helps employers train staff in a familiar workplace setting, reduce disruption to operations, and maintain a professional standard of instruction throughout every course. Our approach is straightforward, reliable, and focused on giving customers confidence in both the quality of training and the competence of their operators.
               </p>
             </div>
 
